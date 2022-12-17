@@ -14,7 +14,7 @@ Time line of public corporate events
     10/17/2019 - FITNESS BRANDS Fictitious Name registered under the company
     11/14/2019 - PINGLEWARE Fictitious Name registered under the company
     03/19/2020 - Second Annual Report Filed
-    08/10/2020 - EPA approved company with the Office of Pesticides.
+    08/10/2020 - EPA approved company #97799 with the Office of Pesticides.
     02/10/2021 - Third Annual Report Filed
     05/24/2021 = TRADEMARK REGISTRATION for BESTBOOKS ACCOUNTING APPLICATION FRAMEWORK
     08/26/2021 - TRADEMARK REGISTRATION for QUICK MINUTE MEALS
