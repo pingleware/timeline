@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://github.com/pingleware/timeline" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/pingleware/timeline/main/timeline.xml" rel="self" type="application/rss+xml" />
     <title>PRESSPAGE ENTERTAINMENT INC Event Timeline</title>
-    <link>https://github.com/pingleware/timeline</link>
+    <link>https://raw.githubusercontent.com/pingleware/timeline/main/timeline.xml</link>
     <description>Timeline of company events</description>
     <copyright>Copyright PRESSPAGE ENTERTAINMENT INC 2018-2022 All rights reserved</copyright>
     <language>en-US</language>
