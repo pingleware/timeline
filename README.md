@@ -4,6 +4,7 @@ Time line of public corporate events
     07/27/2018 - Cormpany registered, Doc #P18000065008
     12/01/2018 - SNACKS-4-U Fictitious Name registered under the company
     12/29/2018 - FCC Registration FRN #0026386110 updated
+    01/15/2018 - Medicare registration as Transportation Broker/Provider with NPI #1053885764
     02/04/2019 - Submitted SEC Form ID for access to EDGAR
     02/05/2019 - EDGAR access approved and assigned CIK 0001766947
     02/05/2019 - Notice of Exempt Offerings filed with SEC.GOV under    Rule 506B for Equity & Debt
