@@ -28,4 +28,6 @@ Time line of public corporate events
     11/07/2022 - Second Amended Notice of Exempt Offerings filed with SEC.GOV under Rule 506C for Equity using OPENSEA.IO Private Sale NFT Token
     12/01/2022 - GATOR GROCERY & GARDENING Fictitious Name registered under the company
  
-  
+# News Feed
+The news feed that can loaded using news readers is https://github.com/pingleware/timeline/blob/main/timeline.xml
+
