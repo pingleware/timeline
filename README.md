@@ -25,6 +25,7 @@ Time line of public corporate events
     03/01/2022 - First Amended Notice of Exempt Offerings filed with SEC.GOV under Rule 506C for Equity & Debt
     03/08/2022 - Second Amendment to Charter Filed
     04/26/2022 - Third Amendment to Charter Filed
+    11/01/2022 - Forth Amendment to Charter Filed
     11/07/2022 - Second Amended Notice of Exempt Offerings filed with SEC.GOV under Rule 506C for Equity using OPENSEA.IO Private Sale NFT Token
     12/01/2022 - GATOR GROCERY & GARDENING Fictitious Name registered under the company
  
