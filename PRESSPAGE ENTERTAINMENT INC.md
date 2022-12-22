@@ -5,7 +5,7 @@ A new media company providing real, unbiased news and entertainment
 	- presspage.news	(News)
 	- presspage.tv		(Entertainment, originated and public domain)
 
-W Autarky Business Model
+# Autarky Business Model
 PressPage Entertainment Inc uses the autarky business model which stems from self-sufficincy.
 
 The need for this business model becomes more apparent during the 202 COVID shutdown when the supply chain waas distrupted. Additionally, Big Tech with their planned obsolescense prompted the needed for the autarky business model.
