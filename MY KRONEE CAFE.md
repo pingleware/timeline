@@ -4,4 +4,4 @@ My Kronee Cafe provides resturant licensing operations for independent operators
 	- mykronee.cafe (Main website)
 	- mykronee.com (Social Network)
 	- mykronee.city (City Simulation Game)
-        - quickminutemeals.com (Single Serving Meal Preparation)  (leased from Snacks-4-U Inc, a New York corporation)
+	- quickminutemeals.com (Single Serving Meal Preparation)  (leased from Snacks-4-U Inc, a New York corporation)
