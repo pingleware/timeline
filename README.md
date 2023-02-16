@@ -2,7 +2,7 @@
 
 Time line of public corporate events
 
-    07/27/2018 - Cormpany registered, Doc #P18000065008
+    07/27/2018 - Company registered, Doc #P18000065008
     12/01/2018 - SNACKS-4-U Fictitious Name registered under the company
     12/29/2018 - FCC Registration FRN #0026386110 updated
     01/15/2018 - Medicare registration as Transportation Broker/Provider with NPI #1053885764
