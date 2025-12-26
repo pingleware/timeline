@@ -33,7 +33,7 @@ Time line of public corporate events
     02/10/2023 - TRAVELING BLONDE Fictitious Name registered under the company (expires 12/31/2028)
     02/15/2024 - Fifth Annual Report Filed
     01/08/2025 - Sixth Annual Report Filed
-    10/06/2025 - Filed a notice of exempt security offering with the State of Florida OFR under FS 517.0612 titled **PRESSPAGE ENTERTAINMENT INC – Round 1 – $10,000 Target – Invest Local** for Florida residents **ONLY**
+    10/06/2025 - Filed a notice of exempt security offering with the State of Florida OFR under FS 517.0612 titled "PRESSPAGE ENTERTAINMENT INC – Round 1 – $10,000 Target – Invest Local" for Florida residents ONLY
 
 # News Feed
 
