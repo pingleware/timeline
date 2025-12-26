@@ -1,9 +1,14 @@
 # PressPage Entertainment Inc
 A new media company providing real, unbiased news and entertainment
-
-	- presspage.info	(Main website)
+    
+	- presspage-entertainment.biz (Main website)
+	- presspage.info	
 	- presspage.news	(News)
 	- presspage.tv		(Entertainment, originated and public domain)
+	- presspage.app
+	- privacy-policy.page (Corporate-wide privacy policy)
+	- terms-of-service.page (Corporate-wide terms of service)
+	- verifiedpress.org (A digital content ownership registration)
 
 # Autarky Business Model (ABM)
 PressPage Entertainment Inc uses the autarky business model which stems from self-sufficiency.
