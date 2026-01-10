@@ -2,10 +2,10 @@
 A new media company providing real, unbiased news and entertainment
     
 	- presspage-entertainment.biz (Main website)
-	- presspage.info	
+	- presspage.info    (Internal Use Only)	
 	- presspage.news	(News)
 	- presspage.tv		(Entertainment, originated and public domain)
-	- presspage.app
+	- presspage.app     (Central Application Portal)
 	- privacy-policy.page (Corporate-wide privacy policy)
 	- terms-of-service.page (Corporate-wide terms of service)
 	- verifiedpress.org (A digital content ownership registration)
