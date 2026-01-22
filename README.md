@@ -37,4 +37,4 @@ Time line of public corporate events
 
 # News Feed
 
-The news feed that can loaded using news readers is https://github.com/pingleware/timeline/blob/main/timeline.xml
+The news feed that can loaded using news readers is https://timeline.presspage-entertainment.biz/timeline.xml
